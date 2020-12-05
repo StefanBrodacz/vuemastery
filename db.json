@@ -33,12 +33,12 @@
   ],
   "production": [
     {
-      "press": 10,
-      "tool": 123,
-      "std cycle": 234,
-      "act cycle": 123,
-      "cav": 6,
-      "product name": "five"
+      "EQNO": 10,
+      "TOOL_EQNO": 123,
+      "STD_CYCLE": 234,
+      "AVG_CYCLE": 123,
+      "ACTCAV": 6,
+      "MFGNO": "five"
     }
   ]
 }
